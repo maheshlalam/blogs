@@ -12,6 +12,10 @@
 body{
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
+    
+    padding-right: 9rem ;
+    padding-left:  9rem ;
+    text-align: "center";
 }
 
 hr {
@@ -61,7 +65,7 @@ hr {
 .list-item-inline {
     display: inline;
     padding 0rem 1rem
-}
+} 
 
 
 /* @navigation */
